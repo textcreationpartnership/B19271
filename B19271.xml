@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration against the States Generall of the United Provinces of the Low-Countreys. Published by the advice of His Privy Council.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19271</idno><idno type="EEBO-CITATION">99890095</idno>
+  <idno type="VID">186061</idno>
+  <idno type="EEBO-PROQUEST">2240912424</idno>
+  
+            <idno type="OCLC"> 15579307</idno>
+            <idno type="STC">Wing C2953</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[94]</idno>
+            <idno type="STC">ESTC R35920</idno>
+            <idno type="PROQUEST">ocm99890095</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890095e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186061)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration against the States Generall of the United Provinces of the Low-Countreys. Published by the advice of His Privy Council.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy, printed by the assigns of John Bill and Christopher Barker, printers to the Kings Most Excellent Majesty,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1671/2 [i.e. 1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Cum privilegio."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dutch War, 1672-1678 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term type="geographic_name">Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:186061:1"/>
+            <p>His Majesties DECLARATION AGAINST THE States Generall OF THE UNITED PROVINCES Of the LOW-COUNTREYS.</p>
+            <p>Published by the Advice of His Privy Council.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+            </figure>
+            <p>In the <hi>SAVOY,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Chri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pher Barker,</hi> Printers to the Kings most Excellent Majesty, 1671,/2.</p>
+            <p>CƲM PRIVILEGIO.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:186061:2"/>
+            <pb n="3" facs="tcp:186061:2"/>
+            <head>His Majesties DECLARATION Against the States-General of the <hi>Ʋnited Pro<g ref="char:EOLhyphen"/>vinces</hi> of the <hi>Low-Countreys.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E have been always so zea<g ref="char:EOLhyphen"/>lous for the Quiet of Christendom, and so careful not to Invade any other Kingdom or State, that We hope the World will doe Us the Justice to believe, that it is nothing but inevitable necessity forceth Us to the resolution of taking up Arms.</p>
+            <p>Immediately upon Our Restauration to Our Crown, the first work We undertook, was the establishing of Peace, and the setling a good correspondence between Us and Our Neigh<g ref="char:EOLhyphen"/>bours; and in particular, Our care was, to con<g ref="char:EOLhyphen"/>clude a strict League with the States General of the United Provinces, upon such equal Terms,
+<pb n="4" facs="tcp:186061:3"/>as would certainly not have been broken, if any obligations could have kept them within the bounds of Friendship or Justice.</p>
+            <p>This League was maintained inviolable on Our part. But in the year 1664. We were stirred up by the complaints of Our People, and the unanimous Vote of Both Our Houses of Parliament, finding it a vain attempt to endea<g ref="char:EOLhyphen"/>vour the prosperity of Our Kingdoms by peace<g ref="char:EOLhyphen"/>able ways at home, whilst Our Subjects were still exposed to the injuries and oppressions of those States abroad.</p>
+            <p>That whole Summer was spent in Negotia<g ref="char:EOLhyphen"/>tions and endeavours on Our side, to bring them to reasonable terms, which notwithstanding all We could do, proved at length ineffectual; for the more We pursued them with friendly Propo<g ref="char:EOLhyphen"/>sitions, the more obstinately they kept off from agreeing with us.</p>
+            <p>Upon this ensued the War in the year 1665. and continued to the year 1667. in all which time Our Victories and their Losses were me<g ref="char:EOLhyphen"/>morable enough to put them in mind of being more faithful to their Leagues for the future. But in stead of that, the Peace was no sooner made, but they returned to their usual custom of breaking Articles, and supplanting our Trade. For instance, The States were particularly en<g ref="char:EOLhyphen"/>gaged in an Article of the Treaty at <hi>Breda,</hi> to send Commissioners to Us at <hi>London,</hi> about the Regulation of Our Trade in the <hi>East-Indies;</hi> but they were so far from doing it upon that obligation, that when we sent over Our Ambas<g ref="char:EOLhyphen"/>sadour to put them in mnd of it, he could not int hree years time get from them any satis<g ref="char:EOLhyphen"/>faction
+<pb n="5" facs="tcp:186061:3"/>in the material Points, nor a forbearance of the Wrongs which Our Subjects received in those parts.</p>
+            <p>In the <hi>West-Indies</hi> they went a little farther; For by an Article in the same Treaty, we were to re<g ref="char:EOLhyphen"/>store <hi>Surinam</hi> into their hands, and by Articles upon the place confirmed by that Treaty, they were to give Liberty to all Our Sub<g ref="char:EOLhyphen"/>jects in that Colony, to Transport themselves and their Estates into any other of Our Plantations. In pursuance of this Agreement, We delivered up the Place, and yet they detained all Our Men in it; onely Major <hi>Banister</hi> they sent away Prisoner, for but desiring to remove according to the Articles. Our Ambassadour complaining of this behaviour, after two years sollicitation, obtained an Order for the performance of those Articles: But when We sent Commissioners, and two Ships to bring Our Men away, the <hi>Hollanders</hi> (according to their for<g ref="char:EOLhyphen"/>mer practice in the business of <hi>Poleroon</hi> for above fourty years together) sent private Orders contra<g ref="char:EOLhyphen"/>dictory to those they had owned to Us in publick; and so the onely effect of Our Commissioners journey thither, was to bring away some few of the poorest of Our Subjects, and the Prayers and Crys of the most considerable and wealthiest of them, for relief out of that Captivity. After this, We made Our Complaints by Our Letter in <hi>Au<g ref="char:EOLhyphen"/>gust</hi> last to the <hi>States General,</hi> wherein We desi<g ref="char:EOLhyphen"/>ted an Order to their Governours there, for the full observance of those Articles; yet to this time We could never receive one word of answer or sa<g ref="char:EOLhyphen"/>tisfaction.</p>
+            <p>But it is no wonder that they venture at these Outrages upon Our Subjects in remote parts, when they dare be so bold with Our Royal Per<g ref="char:EOLhyphen"/>son, and the Honour of this Nation so near Us, as
+<pb n="6" facs="tcp:186061:4"/>in their own Countrey, there being scarce a Town within their Territories that is not filled with abusive Pictures, and false Historical Medals and Pillars; some of which have been exposed to the publick view by command of the <hi>States</hi> them<g ref="char:EOLhyphen"/>selves, and in the very time when we were joyned with them in united Councels for the support of the Triple League, and the Peace of Christendom. This alone were cause sufficient for Our displea<g ref="char:EOLhyphen"/>sure, and the resentment of all Our Subjects. But we are urged to it by considerations yet nearer to Us, then what onely relates to Our Self; the Safe<g ref="char:EOLhyphen"/>ty of Our Trade, upon which the wealth and pro<g ref="char:EOLhyphen"/>sperity of Our People depends, the preservation of them abroad from violence and oppression, and the <hi>Hollanders</hi> daring to affront us almost within Our very Ports, are the things which move Our just Indignation against them.</p>
+            <p>The Right of the <hi>Flagg</hi> is so ancient, that it was one of the first Prerogatives of Our Royal Predecessors, and ought to be the last from which this Kingdom should ever depart. It was never questioned, and it was expresly acknowledged in the Treaty at <hi>Breda;</hi> and yet this last Summer it was not only violated by their Commanders at Sea, and that violation afterwards justified at the <hi>Hague,</hi> but it was also represented by them in most Courts of Christendom as ridiculous for Us to de<g ref="char:EOLhyphen"/>mand. An ungrateful Insolence! That they should contend with Us about the Dominion of these Seas, who even in the Reign of Our Royal Father,
+<note place="margin">In the years 1635. 1636. 1637.</note> thought it an Obligation to be permitted to Fish in them, by taking of Licenses, and for a Tribute; &amp; who owe their being now in a condition of making this Dispute, to the Protection of Our Ancestors, and the Valour and Bloud of their Subjects.</p>
+            <p>Notwithstanding all these provocations, We
+<pb n="7" facs="tcp:186061:4"/>patiently expected Satisfaction, not being willing to expose the Peace of Christendom for Our parti<g ref="char:EOLhyphen"/>cular resentments, whilest they ceased not on their parts to endeavour to provoke the most Christian King against Us; of which they thought themselves so secure, that for above these Twelve months their Ministers here have threatned Us with it.</p>
+            <p>At length, hearing nothing from them, We sent another Ambassador to them, who after several pressing Memorials in Our Name, could receive no Answer, til after he had declared his Revocation. Then they offered a Paper to this effect, That in this Conjuncture they would condescend to Strike to Us, if We would assist them against the <hi>French;</hi> but upon condition, that it should never be taken for a President hereafter to their prejudice.</p>
+            <p>Since the return of Our said Ambassador, They have sent an Extraordinary One to Us, who in a most extraordinary manner has given Us to under<g ref="char:EOLhyphen"/>stand, That he can offer us no Satisfaction till he hath sent back to his Masters.</p>
+            <p>Wherefore, despairing now of any good effect of a farther Treaty, We are compelled to take up Arms in defence of the Antient Prerogative of Our Crowns, &amp; the Glory and Safety of Our Kingdoms; And We put Our Trust in God, that He will give Us His Assistance in this Our Just Undertaking, since We had no way left to defend Our People from the Artifice of that Nation in Peace, but by the Valour of Our Subjects in Warre.</p>
+            <p>We have therefore thought fit to Declare, and do hereby Declare, That We will prosecute Warr both by Sea and Land against the <hi>States Generall</hi> of the <hi>Ʋnited Provinces,</hi> and all their Subjects and In<g ref="char:EOLhyphen"/>habitants; Hereby enjoyning Our most dear &amp; most entirely beloved Brother the <hi>Duke of York</hi> our High Admiral, Our Lieutenants of Our several Coun<g ref="char:EOLhyphen"/>ties,
+<pb n="8" facs="tcp:186061:5"/>Governors of Our Forts and Garrisons, and all other Officers and Soldiers under them by Sea and Land, to oppose all the attempts of the <hi>States Ge<g ref="char:EOLhyphen"/>nerall of the Vnited Provinces,</hi> or their Subjects, and to do, and execute all Acts of hostility in the pro<g ref="char:EOLhyphen"/>secution of this Warr against the said <hi>States Gene<g ref="char:EOLhyphen"/>rall of the Vnited Provinces,</hi> their Vassals, Subjects, and Inhabitants; Willing and Requiring all Our Subjects to take notice of the same, Whom We henceforth straightly forbid, on pain of Death, to hold any Correspondence or Communication with the said <hi>States General,</hi> or their Subjects, (those on<g ref="char:EOLhyphen"/>ly excepted who are necessitated thereunto for the withdrawing their Persons and Estates out of the <hi>Ʋnited Provinces.</hi>) And because there are remain<g ref="char:EOLhyphen"/>ing in our Kingdoms many Subjects of the <hi>States Generall of the Ʋnited Provinces,</hi> We do Declare, and give Our Royal Word, that all such of the <hi>Dutch</hi> Nation, as shall demean themselves dutifully towards Us, and not correspond with Our Enemies shall be safe in their Persons and Estates, and free from all molestation and trouble of any kind.</p>
+            <p>And further We do Declare, That if any of the <hi>Low-Countrey</hi> Subjects, either out of Affection to Us, or Our Government, or because of the Oppres<g ref="char:EOLhyphen"/>sion they meet with at home, shall come into Our Kingdoms, they shall be by Us protected in their Persons and Estates.</p>
+            <p>And whereas We are engaged by a Treaty to support the Peace made at <hi>Aix la Chappelle,</hi> We do finally Declare, That notwithstanding the prose<g ref="char:EOLhyphen"/>cution of this War, We will maintain the true In<g ref="char:EOLhyphen"/>tent and Scope of the said Treaty, and that in all the Alliances, which We have or shall make in the progress of this War, We have and will take care, to preserve the Ends thereof inviolable, unless pro<g ref="char:EOLhyphen"/>voked to the contrary.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
